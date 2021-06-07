@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @braflo
+- 👀 I’m interested in React, Data Visualization, Geospatial Data, Animations and a lot of other things. The named topics are the ones i have time to focus on.
+- 🌱 I’m currently learning React, Typescript, Javascript, CSS, HTML, D3, ThreeJS, react-spring, ...
+- 💞️ I’m not looking to collaborate on somehting atm. Several projects in pipeline.
